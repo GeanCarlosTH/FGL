@@ -1,9 +1,9 @@
-import Header from "../components/header"
+import Header from "../components/header";
 
 export default function ProductDetails() {
-    return(
-        <div>
-            <Header />
-        </div>
-    )
+  return (
+    <div>
+      <h1>e nois</h1>
+    </div>
+  );
 }

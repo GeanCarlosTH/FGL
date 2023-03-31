@@ -3,9 +3,7 @@ import HomePage from "../pages/home-page";
 function App() {
   return (
     <div>
-      <header>
-        <HomePage />
-      </header>
+      <HomePage />
     </div>
   );
 }
