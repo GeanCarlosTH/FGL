@@ -1,9 +1,7 @@
 import Header from "../components/header";
-
+import Product from "../components/product";
 export default function ProductDetails() {
   return (
-    <div>
-      <h1>e nois</h1>
-    </div>
+      <Product ></Product>
   );
 }
