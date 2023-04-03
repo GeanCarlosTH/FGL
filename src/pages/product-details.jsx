@@ -1,7 +1,12 @@
-import Header from "../components/header";
-import Product from "../components/product";
+
+
+import Header from "../components/header"
+import Produto from "../components/Produto"
+
 export default function ProductDetails() {
-  return (
-      <Product ></Product>
-  );
+    return(
+        <div>
+            <Produto></Produto>
+        </div>
+    )
 }
